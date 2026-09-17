@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Level Up Fitness icon">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#070b14" rx="48"/>
+  <path d="M52 176 L86 108 L120 132 L156 78 L202 176 Z" fill="url(#g1)" opacity="0.92"/>
+  <circle cx="92" cy="84" r="18" fill="#edf2ff" opacity="0.95"/>
+  <path d="M78 182 L110 150 L140 176 L196 110" fill="none" stroke="#edf2ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 46 L132 46" stroke="#edf2ff" stroke-width="12" stroke-linecap="round"/>
+</svg>
