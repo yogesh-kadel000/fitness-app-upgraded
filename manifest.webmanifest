@@ -1,14 +1,16 @@
 {
   "name": "Level Up Fitness",
   "short_name": "Fitness",
-  "start_url": "./",
+  "id": "/fitness-app-upgraded/",
+  "start_url": "/fitness-app-upgraded/",
+  "scope": "/fitness-app-upgraded/",
   "display": "standalone",
   "background_color": "#070b14",
   "theme_color": "#070b14",
   "description": "Beginner-friendly exercise app with quests, rewards, and recovery routines.",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "/fitness-app-upgraded/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
